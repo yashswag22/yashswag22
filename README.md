@@ -21,7 +21,7 @@
 <a href="https://www.naukri.com/code360/profile/yashswag22" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="yashswag22" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/yashswag22/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="yashswag22" height="30" width="40" /></a>
 <a href="mailto:gauravkrpla@gmail.com">
-    <img align="center" src="[https://www.dreamstime.com/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-image201003176](https://thumbs.dreamstime.com/b/gmail-logo-google-product-icon-logotype-editorial-vector-illustration-vinnitsa-ukraine-october-199405574.jpg?w=768)" alt="Gaurav Kumar's Email" height="30" width="40" />
+    <img align="center" src="https://thumbs.dreamstime.com/b/m-logo-app-icon-vector-illustration-204184800.jpg?w=768" alt="Gaurav Kumar's Email" height="30" width="40" />
   </a>
 </p>
 
