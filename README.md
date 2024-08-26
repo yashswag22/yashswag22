@@ -21,8 +21,11 @@
 <a href="https://www.naukri.com/code360/profile/yashswag22" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="yashswag22" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/yashswag22/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="yashswag22" height="30" width="40" /></a>
 <a href="mailto:gauravkrpla@gmail.com">
-    <img align="center" src="https://thumbs.dreamstime.com/b/m-logo-app-icon-vector-illustration-204184800.jpg?w=768" alt="Gaurav Kumar's Email" height="30" width="40" />
-  </a>
+  <img align="center" src="https://thumbs.dreamstime.com/b/m-logo-app-icon-vector-illustration-204184800.jpg?w=768" 
+       alt="Gaurav Kumar's Email" 
+       style="height:50px; width:50px; border-radius:50%;" />
+</a>
+
 </p>
 
 
