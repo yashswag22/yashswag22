@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **C++, DSA, SQL, MySQL, DBMS, Frontend**
+- 💬 Ask me about **C++, DSA, OOPS, SQL, MySQL, DBMS, Frontend**
 
 - 📄 Know about my experiences [https://yashswag22.github.io/myresume.github.io/](https://yashswag22.github.io/myresume.github.io/)
 
