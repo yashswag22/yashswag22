@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, DSA, OOPS, SQL, MySQL, DBMS, Frontend**
 
-- 📄 Know about my experiences [https://yashswag22.github.io/myresume.github.io/](https://yashswag22.github.io/myresume.github.io/)
+- **Open to work and opportunities. Gmail : gauravkrpla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
